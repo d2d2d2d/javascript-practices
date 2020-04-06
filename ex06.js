@@ -26,7 +26,7 @@ var o3 = {
 		name: '둘리', 
 		age: 10,
 		another: {
-			name: '마이콜'
+			name: '마이콜',
 			age: 30
 		}
 };
